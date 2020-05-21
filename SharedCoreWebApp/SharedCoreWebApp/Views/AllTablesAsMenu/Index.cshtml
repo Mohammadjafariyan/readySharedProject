@@ -1,0 +1,19 @@
+﻿@model Dictionary<string,string>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>لیست جداول</h2>
+
+<table>
+    <tbody>
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td><a href="@Url.Action("TableIndex",new {key=m.Key})">@m.Value (@m.Key)</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,91 @@
+﻿@using TelegramBotsWebApplication.Models
+@model TelegramBotsWebApplication.Areas.Admin.Models.MyDataTableResponse<SocialChannel>
+
+@{
+    ViewBag.Title = "لیست کانال های کاربر";
+    Layout = "../Shared/_Admin_Layout.cshtml";
+
+    var telegramUser = Model.DependEntity as TelegramUser;
+}
+
+<style>
+    th{
+        text-align: right
+    }
+
+
+
+    .content {
+    }
+
+    .sticky {
+        position: fixed;
+        top: 150px;
+        margin-right: -100px;
+        width: 100%;
+    }
+
+    .sticky + .content {
+    }
+</style>
+
+
+<h2>لیست کانال های کاربر</h2>
+<a style="text-align: left" href="/admin/TelegramUsers/index">بازگشت به لیست کاربران</a>
+
+<hr/>
+<div class="row">
+    
+    <table class="table table-condensed table-striped table-bordered">
+        <thead>
+        <tr >
+            <th colspan="3"><h4 style="text-align: center">لیست کانال های کاربر </h4></th>
+            @if (telegramUser != null)
+            {
+                <th colspan="3"><h4 style="text-align: center">@telegramUser.FirstName @telegramUser.LastName  (@telegramUser.Username)</h4></th>
+            }
+        </tr>
+        <tr>
+            <th>آدرس کانال</th>
+            <th>مبدا یا مقصد</th>
+            <th>عنوان چت</th>
+            <th>نوع چت</th>
+            <th>نوع صفحه اجتماعی</th>
+            <th>عملیات</th>
+
+        </tr>
+        </thead>   
+        @foreach (var chennel in Model.EntityList)
+        {
+            <tr>
+                <td>@chennel.Address</td>
+                <td>
+                    @{
+                        if (chennel.ChannelType == ChannelType.Target)
+                        {
+                            <span>مقصد</span>
+                        }
+                        else
+                        {
+                            <span>مبدا</span>
+
+                        }
+                    }
+                </td>
+                <td>@chennel.ChatTitle</td>
+                <td>@chennel.ChatType</td>
+                <td>@chennel.SocialChannelType</td>
+                <td><a href="/Admin/AdminFeeds/Index?dependId=@chennel.Id">فید های تعریف شده برای این کانال</a></td>
+
+            </tr>
+        }
+            
+          
+    </table>
+
+
+    
+    
+    </div>
+
+

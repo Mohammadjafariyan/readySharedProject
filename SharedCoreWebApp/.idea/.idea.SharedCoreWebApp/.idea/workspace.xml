@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c79fc64-122b-4ef1-8eab-a1070b6f1f33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="8158" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Views/Example/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/Service/HiService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/GenericTablesService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/IService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Models/MyDataTableResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/GenericService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Controllers/AllTablesAsMenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Data/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Controllers/GenericController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Views/AllTablesAsMenu/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Views/AllTablesAsMenu/TableIndex.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/GlobalHelpers/EncryptionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/GlobalHelpers/MyGlobal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/GlobalHelpers/MyJsonResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/ContextFactory/ContextFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/ObjectCopier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/ContextFactory/AbstractDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Models/Log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/LogService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71F6D499-31D3-4C0A-B322-A9423AFC6E4F/18/4245cfde/ILogger`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/ExceptionMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Controllers/GenericApiController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/CurrentRequestInfoSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/MyGlobalExtentions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/CurrentRequestInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/Controllers/AboutController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/Views/About/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Service/TestService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedCoreWebApp/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebApplication/Pages/About/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/TestService.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/appsettings.json" />
+        <option value="$PROJECT_DIR$/WebApplication/Service/HiService.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Controllers/AboutController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Program.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Program.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Startup.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/GlobalHelpers/EncryptionHelper.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Views/Shared/Error.cshtml" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Models/ErrorViewModel.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/ContextFactory/MyAbstractDbContext.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/ContextFactory/ContextFactory.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/ObjectCopier.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/IService.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/GenericTablesService.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/GlobalHelpers/MyGlobal.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/ContextFactory/AbstractDbContext.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Models/Log.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/LogService.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Controllers/GenericController.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Controllers/AllTablesAsMenuController.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Views/AllTablesAsMenu/TableIndex.cshtml" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/GlobalHelpers/MyJsonResponse.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Controllers/GenericApiController.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/GenericService.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Models/MyDataTableResponse.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Startup.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/MyGlobalExtentions.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/CurrentRequestInfo.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/ExceptionMiddleware.cs" />
+        <option value="$PROJECT_DIR$/SharedCoreWebApp/Service/CurrentRequestInfoSingleton.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c2NenC8gG14NFHRJlkSajQY3nu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication">
+    <configuration name="SharedCoreWebApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SharedCoreWebApp/SharedCoreWebApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="SharedCoreWebApp" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharedCoreWebApp: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SharedCoreWebApp/SharedCoreWebApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplication/WebApplication.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.SharedCoreWebApp" />
+      <item itemvalue=".NET Launch Settings Profile.WebApplication" />
+      <item itemvalue=".NET Launch Settings Profile.SharedCoreWebApp: IIS Express" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c79fc64-122b-4ef1-8eab-a1070b6f1f33" name="Default Changelist" comment="" />
+      <created>1589722844335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589722844335</updated>
+      <workItem from="1589722898793" duration="9459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589723779635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589723779635" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.3.bottom" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.3.center" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.3.left" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state width="1323" height="223" key="GridCell.Tab.3.right" timestamp="1589742329396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1589742329396" />
+    <state x="275" y="95" key="Rider.ProjectTemplateDialog.Size" timestamp="1589723166336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1589723166336" />
+    <state x="511" y="48" key="RiderGenerateDialog" timestamp="1589730622516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="48" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1589730622516" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1589723615449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589723615449" />
+    <state x="360" y="97" width="646" height="534" key="find.popup" timestamp="1589724239287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="360" y="97" width="646" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1589724239287" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1589729542069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589729542069" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589731400693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589731400693" />
+  </component>
+</project>
